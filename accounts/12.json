@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "torrent-drive-1604980381352",
+  "private_key_id": "918b64473d4a877a5733f7fa3707282983e841da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdHYLShUfbTpW5\nY7OGQiP7Ri/koMCvEKvCkZ5h+aw8dXhTdptDRIjoMtO8p+hjN9oghGnwY29jJ0NI\nQ4zt1urwmKjwtFtfUjHEpsnEm+Mu3mY7EmYGnANHMUIB2GA9eRkXt2FSfrgqDvED\nOG5sNUgc2CNsKiWQhgiuYMlEMGQAe9b8TRmvKIOqYP528M/sCf+kDr2yZ0pD6S4f\njc5PRj2Z8i9oAiDp1tk2q2DBESOQSrrNg0PRl9s0p/qcFELnY+8XLBzb3cmLmmdz\nPlYjzgS1/E0DLsl8K6It1sMIHaVAUyFfvg5Fee64MizHpCv7FM6ZjPEUQxlJfXFA\nBxYi4V1PAgMBAAECggEAFz6mfD77wpZ90E/P360pZaOcslaWK1BsGP0yUYx+zvMS\nOkbx8aHSH4hliyPMXeGFhAoTIl2TvTex3J8h2o5RdAch93q3igK/GjkS4OOvWN/O\ngC7YqWGrmnzPJza8BlxEOh4HaA0XciGDxtYygA/h+2J+2yHhLOCnqCTpog0GvotY\nQIZW+F4Ow/2cJrzZbJBdPhruU9T3/rZGnBuYFtRd97OJUKE5lMa9xOQcfBL2Mpx/\nlABKh6B4a4t5J2DmatPoG9Sz+6XD6r1B4z8Jj1YWclx4ten9hudVt/k75oTzl4a3\ntdMTV4CZq1rYShkDQtZl2aMyHVXrxc20kn0VroPkAQKBgQDdeBvb1+hABT35EGPn\nAMoPoiGhPqCoX6SJZX4cEpjEdfbpL8gub+0JdrGS2/uDK9U04QWzuL2wDOLA7xyG\nyYbe8auQiUftQDFqMy7Sa99rBCmjVcSIY95pQ/iiHHzRkPM9YkN0+JLGCi6R0nLN\n39XVOXHU/56vNGjP/rCRuvqtkQKBgQC1nLsuqsMIcvY9DFUkqD7Vbx952DrqCDis\nsLWa8E8kVV4ZVKyU9UII5Rnfoe5HiEukv7cNxpulWKvBNE5kyK4YLgkAfCZY5tZ9\nqM1Ggd5lFrWk97GOYNVWgLUMplNAxKWdHHRxT8GH1gbjfMMuDr16OChRS1j6q6Ro\npJFxgxts3wKBgQCc0rsvbnCoPM4IeqGzZuyuK0mTC2zqLWeuXy7wo/6HR10C/HHM\n6Da6N9FARAOSe8xquFi4Tb4MVuOOaQMTMssNPaYWIA/NoWIcaIfkOrym4/i0Dzyu\ns8E/WwFJkdCU+QY01kscHhSYpYcafSIMRE7/wMCpaiSsvfjmJ9xSJUvy8QKBgHuI\nKoJpwNPkbr3Dv755epPvTDey7w/1m6dLY5wKTarnLmSIhgOkd9BZFapaGRwrB1j+\n1uLV71Ue5WU70P8YyeLEnXbo+6SJD+jVgxushru4IMIfgXTZRQPb9Eqwb/ykRgqC\nKmpQ19EvsevXF2Qivpt9y17Qo6uOSPysxAm0Jll9AoGBALr2j5Ot7iP0kPtl9AWe\ne70VRLLjpL3cm3r/91lXVIcNIMOZR46Y+W7Nnt7LP3Lbw+TYZYWkMIxQ5yowNHR7\nHF+4tVRUSJ+md2aS0KDYD+earNKenlvR+wN3iX3Qscdbs5CaVnHhcH6TUjWsIzm1\nLn/LjbH706qovPLmlnlfjvzd\n-----END PRIVATE KEY-----\n",
+  "client_email": "torrent-drive-1604980381352@appspot.gserviceaccount.com",
+  "client_id": "101640384014410461382",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/torrent-drive-1604980381352%40appspot.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "torrent-drive-1604980381352",
+  "private_key_id": "fbc829ba0b725d6d1424c69cc07cecb493b6403f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdwIWuK9RVK/BA\nfBdue0SHbjGhTFy50GfYQH09xyRfW10rDeAF9Rz0LW3uIQgPXEH5Wuwo80d3CxwS\nzz0OlJGktMnAT/w+iGXsnEaCczOYka6fpt5mZD4oT8RVLA0GZ0tZnWLVY4J/Dpr5\nHUIuLk9EXbMn6D6txMA8RZdNF2YfbGznLCsFk8lQqhDu4zaqSZpytY6lz9g4P/TH\n95ApiMJ38Nf2ZiYmJ4AqZwqKAd01Fk8W+z70VjCAl5WQW17iEQ02UjkkRQIMC13s\naTtEg6DGf2/aLj7NCihn5WYvdAvh8pI+ohVMufUa6ppKfASoQ4AUpb9vMMwTFnIc\nnPF78DcFAgMBAAECggEABFZBZpkuYHwRghhXRZKOfwGszCAvEW21GSkmuE7UBWob\n3N3oCYnkVqM0GT6fu9pftvUEtph/n7p2tl6rsU2s1mAhBtA8IVT7Jl7igl4b7kcd\nC6cZCKwbWFzfCy9nmUQ4Olm9GJxAf3E9mfkvs1jTFZBU51U3eewFk/Ke1v/8bwMv\nRvc3pZau2hXBWHgewhQ6LcP1M1NAZg0fVg/KLUQfPd126ck++sTMyq5mjvcwjmFH\nWQfPVBxsAVhEPpPeForgDvloSdWj/gCQ5mKSw5+ZWfWufmBtlgAlB5XEppYs60Xg\nB802FkqGZE8T0tGt9yzGdXQELYCp7c717ub2SbTJqQKBgQDUuym+RaxzTT1Q3CnC\npUqsy6HlDniVhgwHhaCTOsVJsIq1OdrNML+EODeybwwahWA+27+Tu9gORgbPs2EE\n67GpuYlik35gMoNEJEp+pRaKy/hXsEXxFgLCRaUL3EK8Vvz9lnb368tTpjuUoXdT\nEUUHbPLW9wiFj7OQiwJPqvp2PQKBgQC91p4iCnyIYS9hPFMMoAL6A9abTpnCdSy7\nZaE6hKfDqLcMbeDPEFzJVMyrEN9O4MDvnVryhclQsBn6WZHcTUMik47v5KawG+Br\nfK1eNyfk/J5nHl/NNcVKQK+kaCy6SnJk2yRqx1LGIxikj3pw5CWhyp6bYtTq1mEJ\nBD7IgqAYaQKBgGHYtJqP8YIXRNysZ4jf/jj8cLqqrUwZG+9Zx0HxBk2epi41Li6y\n/WQTd4rbCPYp4tsGuFd7TyVBkGB4YWeiAVXPwSFWNgqJMVdmWd1mkbfFmbS7n3AE\nb8BryD5sUUXPvQ3m51GhYyRWkZELs5bBmr6PniLB/Wlxb2ZMigOa4RkBAoGBAJk4\nwCl5jUoGJte0eNOX0s84id6QckohiRk3zgoNR9sEMbo2dVyrODjH2Om5lIN1pEPC\nHcXhdbtKZ61I3hGRyr39m0DErEU4OsqGtud0XR7VRoS0X16iJ7rmut1Xt8IklHAS\n8DG+73A8o4cuxwSXIEiV4a5I9tEUdv1wD7yGsfEBAoGBAML9vzaGyqG3dIVJ5Htl\nIjbRyOs7smDOSLE+eMbc3CWndE1DHwdJMErXG6hvMjZ8VIwl5pW0OuG1Atpay4ME\nohDqCg4s2MlWbmHTg1sgfFtG3wm/CNJ/Yk50025cuh4j1/Yee2jVQsCgsr/2GCmg\nbd+zq/uSmK37Q+q8lfd139C+\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mmxlc1b267htj-55lzolbuyq83@torrent-drive-1604980381352.iam.gserviceaccount.com",
+  "client_id": "118123339057086469580",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mmxlc1b267htj-55lzolbuyq83%40torrent-drive-1604980381352.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "torrent-drive-1604980381352",
+  "private_key_id": "174c05f819a96d71924a5821eaee6a5865013df3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDJQ/qYk+ah7tMi\nT31P9SUtvH5M+7D/py/N1qIkDsPhcjzf6/KjeE5YVn3VRXIAZNEY2GMNb0K+XIKd\nbIUeaTPxor0st0bZazPOEONriDml0/Kh+x0xXISaEztRJvCnNpeluY/qFyWyMTAI\nHxhGEfJTFUzwxqYlkKdqJOBYPOZ9swO1DZt8wnsTuu8s5Ygt9CM8unI1xQjj4s8B\n3f97l3Tq6Tnx68vQpmtbQdW2gr7+klNuFuhmi4PSO5kfmT49xNRJtcgw9hVR1q/u\nS2W+q6SyyG4RaFEQkT5RejGsJJy6kpR5hUzUcWQ2j6bQprpT2BQx37JxxSQtPvry\nieEDbqLZAgMBAAECggEABTBaGnssreXX/mlVeh1gPiG/EVnHVk3/hONo1nxldy9g\na6b8AFQqk+s17wzNa75tqCHzCs6ApmMA8JFSzMYKU2teTHP0sQgLI7/KdzQhxVlV\npvCwD9zaY9UFWVojR/JXvktujwrV+1Y6jmkL0YmmqVbyHv6GG8+TC2DkQk4epKSw\nQH9UVA9P7Ki2FSg9brFWt5kMIYio2h5rcrBu3rJNiZ3RJImkCbyEFspu9hzE4nQQ\nGCxWk9jE/fGXJr5irT+nmAKu40YBFqPDimLVZu9IBl2oeg6SuudTwrDuAi/8AcVr\nuZhz3l6van9XIAbm1l7MRkSrs5YAYdKatwiYDty7YQKBgQD2KinzdqWYS8OHVsjO\nU67Z6alk64DS0RU+Q2Nk/V09ey3j5iRmtC0Oyh7/eqWZ3p91t6vmrG2Hoo3CptH2\n6dU8BiRx2kYGDfZ5/8jZdFtp5YvV4ipSKSulZyPPF5d4eOPnBiVL88TxdWJMTHdz\ntMfnKVbsKe+99ZuIl+N7Mld9uQKBgQDRTpMnVJgbKs7btPUvvWd8NF01lIodJTCH\n9XB2TLt1oDM4JOzJyo3hUk/Hb3nUKg0bwlwe2Ka2SZz3snr3TwmL2kzP4KM9Zd/+\ndIrMt+e606X1KXVK1ZXeAKNJFuQxuLAPiKxtnXNXZdU2GPw3toIcUaqfkWtOpVX6\n4lvW6KneIQKBgAf/LKe1FgIRjAOMhS92tnprxc36fI/crPT92W/Bb1L8+mup4UrY\n1ZHibQldoZ2TBtkbI2F1/oTmefZ11uJPjFbL2Ek+jwHJWFV0QsEVr5aMF3PWSgur\nPLi91gL3QDtwqe6qW3HRNHenmY7i+QpwOAJBbIp1fk1MekYAsSoiY4c5AoGANFxu\nzbkI8EruQuJrMA029Uh4RO4q+w2RrYGGJ+IcR1nTVmlOX1Dv231m/eJyXNREQTyH\nJSRX2GRkA0dAIdxA7B6pdpug2rxAo/xtuLcNHpzR+JntgNIb0tTgBGnYnmOwj8JG\nOInaD/QmuYjYl+ttcz4u7ApKCPutnbzA8utzi2ECgYApHCJBqzJaZKga9hM0BTkJ\n/azYlxp1kpSyu+CpLyES9IDAw/QBCILnhviVtWnB+l8b7jWE+EQgnWTTd3hugvN5\nh52JocXWk5jGvg1zdxJtAqCTncJhOPkPdkYYjCtVqKugMInavnS0lw5nu5gObMty\n9snSC2wP26FEPk2S3fbSXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uax9s@torrent-drive-1604980381352.iam.gserviceaccount.com",
+  "client_id": "101156547947439384440",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uax9s%40torrent-drive-1604980381352.iam.gserviceaccount.com"
+}
